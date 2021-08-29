@@ -11,12 +11,12 @@ Simple project to show an implementation of Micro Frontends ([official web-site]
 
 In the project directory, you can run:
 
-###`yarn build`
+### `yarn build`
 Builds the app for production.
 
-###`yarn build:dev`
+### `yarn build:dev`
 Builds the app for development.
 
-###`yarn start`
+### `yarn start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
