@@ -1,4 +1,5 @@
 # Micro Frontends with React and Vue
+[![Build Status](https://travis-ci.com/vgratsilev/microfrontends-react-vue.svg?branch=master)](https://travis-ci.com/vgratsilev/microfrontends-react-vue)
 
 Simple project to show an implementation of Micro Frontends ([official web-site](https://micro-frontends.org/)) with React and Vue micro-apps which shared the same store.
 
