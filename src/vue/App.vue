@@ -1,7 +1,7 @@
 <template>
     <div class="card">
         <h1>Vue Micro App</h1>
-        <h3>Vue click count: {{count}}</h3>
+        <h3>Vue clicks count: {{count}}</h3>
 
         <button class="btn increment" @click="increment">Increment count</button>
         <button class="btn decrement" @click="decrement">Decrement count</button>

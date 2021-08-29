@@ -7,6 +7,8 @@ Simple project to show an implementation of Micro Frontends ([official web-site]
 * [single-spa-react](https://github.com/single-spa/single-spa-react) for React app.
 * [single-spa-vue](https://github.com/single-spa/single-spa-vue) for Vue app.
 * Project configured with [Webpack](https://github.com/webpack/webpack).
+* Builds with [Travis CI](https://www.travis-ci.com/).
+* Published on [Git Pages](https://vgratsilev.github.io/microfrontends-react-vue/).
 
 ## Available Scripts
 
